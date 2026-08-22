@@ -16,6 +16,10 @@
 
 ### [→ &nbsp;Open it now &nbsp;·&nbsp; free &nbsp;·&nbsp; no signup&nbsp;](https://stitch.veildetail.co.uk)
 
+[Download](https://stitch.veildetail.co.uk/download) &nbsp;·&nbsp;
+[Pricing](https://stitch.veildetail.co.uk/buy) &nbsp;·&nbsp;
+[Questions](https://stitch.veildetail.co.uk/buy#contact)
+
 **Made in the UK by [VEIL Detail Co.](https://stitch.veildetail.co.uk)** — because sometimes the software that
 comes with an embroidery machine costs more than the machine...
 
@@ -120,7 +124,9 @@ that looks bought and one that looks printed on.
 | **JEF** | Janome, Elna | ✅ | ✅ |
 | **XXX** | Singer Futura | ✅ | — |
 | **SEW** | Older Janome | ✅ | — |
-| **VP3** | Husqvarna Viking, Pfaff | — | — |
+| **VP3** | Husqvarna Viking, Pfaff | ✅ᵇᵉᵗᵃ | — |
+
+ᵇᵉᵗᵃ VP3 reading is new and still being checked against more files.
 
 Every file it writes is verified by **decoding the bytes back before it saves**,
 so a corrupt file can't reach your machine.
@@ -170,6 +176,8 @@ not a trial** — it just works, forever.
 | **£149 once** | Pro. Yours permanently, works offline forever |
 | **£499 once** | Factory. Multi-hoop splitting and production tooling |
 | **£39** | Students, with a student card or .ac.uk email |
+
+### [→ &nbsp;See the plans and buy&nbsp;](https://stitch.veildetail.co.uk/buy)
 
 Course technicians: **departmental licences are free**. [Get in touch.](https://stitch.veildetail.co.uk/buy#contact)
 
