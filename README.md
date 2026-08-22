@@ -16,7 +16,7 @@
 
 ### [→ &nbsp;Open it now &nbsp;·&nbsp; free &nbsp;·&nbsp; no signup&nbsp;](https://stitch.veildetail.co.uk)
 
-**Made in Essex by [VEIL Detail Co.](https://veildetail.co.uk)** — because the software that
+**Made in the UK by [VEIL Detail Co.](https://stitch.veildetail.co.uk)** — because the software that
 comes with an embroidery machine costs more than the machine.
 
 </div>
